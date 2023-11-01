@@ -21,7 +21,7 @@ To install dependencies:
 To run application:
 ```npm run start```
 
-Heroku Deployment: [Text Editor App](https://git.heroku.com/text-editor-mk.git)
+Heroku Deployment: [Text Editor App](https://text-editor-mk-73e9b0223043.herokuapp.com/)
 
 ---
 
