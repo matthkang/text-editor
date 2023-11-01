@@ -48,7 +48,8 @@ export const getDb = async () => {
   // Get confirmation of the request.
   const result = await request;
   
-  return result.value;
+  result ? result.value : console.log("No data found in database")
+  return result?.value;
 };
 
 initdb();
